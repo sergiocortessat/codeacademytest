@@ -35,7 +35,7 @@
 
 ## Live Version
 
-* [Live Demo](https://sergiocortessat.github.io/React_Rick-MortyAPI/) 
+* [Live Demo](https://sergiocortessat.github.io/randomRBGColorPicker/) 
 
 <!-- ABOUT THE PROJECT   -->
 
