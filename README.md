@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# RGB Random Color Picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+<br />
 
-### `yarn start`
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [How to play](#how-to-play) 
+* [Contributing](#contributing)
+* [Contact](#authors)
+* [Acknowledgements](#acknowledgements) 
+* [Getting Started](#getting-started) 
+* [Live Demo](#live-version) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#
+<br />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Javascript](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white) <br/>
+![React](https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white) <br/>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshot
 
-### `yarn build`
+<p align="center">
+  <img height="auto" src="Screenshot.png">
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [JAVASCRIPT] [REACT]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br />
 
-### `yarn eject`
+## Live Version
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [Live Demo](https://sergiocortessat.github.io/React_Rick-MortyAPI/) 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- ABOUT THE PROJECT   -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br />
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## About The Project
 
-## Learn More
+The RBG random picker allows you to select random colors when you are unsure which color to use. This web app will help you to see the color and a contrast button to allow you grasp a better image
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Analyzing the Bundle Size
+## Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Terminal or similar to execute the program.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Getting Started
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Clone project
+- To get a local copy up and running follow these simple example steps.
+- Clone this repository with git clone ```https://github.com/sergiocortessat/randomRBGColorPicker/``` using your terminal or command line.
+- Change to the project directory by entering: ```cd randomRBGColorPicker``` in the terminal.
+- Enter the command npm i
+- Enter the project folder and run locally by using npm start.
+- If the project cant be build, please run npx webpack.
 
-### Deployment
+## Command line steps
+```
+- $ git clone `$ git clone https://github.com/sergiocortessat/randomRBGColorPicker
+- $ git checkout develop
+- $ cd randomRBGColorPicker
+- $ npm i
+- $ npm start
+- ##(If project doesn't build, please run): $ npx webpack
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 Sergio Cortes Satizabal
+
+- Github: [@sergiocortessat](https://github.com/sergiocortessat)
+- Twitter: [@sergiocortessat](https://twitter.com/sergiocortessat)
+- LinkedIn: [@sergiocortessat](https://linkedin.com/in/sergiocortessat)
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](https://github.com/sergiocortessat/sergiocortessat/blob/main/LICENSE) licensed.
+
+
